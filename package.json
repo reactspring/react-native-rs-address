@@ -1,5 +1,5 @@
 {
-  "name": "@nixstory/react-native-rs-address",
+  "name": "react-native-rs-address",
   "version": "0.9.1",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "react-native",
     "postcode",
-    "korea",
+    "address"
   ],
   "homepage": "https://github.com/reactspring/react-native-rs-address",
   "bugs": {

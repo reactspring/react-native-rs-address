@@ -33,10 +33,10 @@ pod install
 ### Example
 
 ```js
-import DaumPostcode from 'react-native-rs-address';
+import Postcode from 'react-native-rs-address';
 
 const App = () => (
-    <DaumPostcode
+    <Postcode
         style={{ flex: 1 }}
         jsOptions={{ animation: false }}
         onSelected={(data) => this.parsingAddress(data)}
