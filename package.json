@@ -1,0 +1,31 @@
+{
+  "name": "@nixstory/react-native-rs-address",
+  "version": "0.9.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "postcode",
+    "korea",
+  ],
+  "homepage": "https://github.com/reactspring/react-native-rs-address",
+  "bugs": {
+    "url": "https://github.com/reactspring/react-native-rs-address/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactspring/react-native-rs-address.git"
+  },
+  "author": "TaeHeun Lee",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*",
+    "react-native-webview": "*"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
